@@ -9,17 +9,17 @@
 ### ⚙️ スキル & ツール
 
 - **Vim**  
-  快適なテキスト編集環境を追求中
+  今はvscodeにvimのキーバインドで開発してる状態です
 - **Kotlin (Android)**  
-  モダンなAndroidアプリ開発
+  車載に載っけるタブレットAndroidアプリ開発してた経験あります
 - **Python**  
-  スクリプトやデータ処理に活用
+  バックエンドが多いです。FastAPIを利用する機会が多いです。
 - **C#**  
-  .NETを使ったアプリケーション開発
-- **React / Next.js / Vue3 (TS)**  
-  フロントエンドの最新技術で快適なUIを構築
+  .NETを使ったアプリケーション開発経験あります。
+- **React / Next.js / Vue3 (TS) / Remix**  
+  React系のフレームワークは仕事で使うことが多いですが、趣味でVue3使ってます。
 - **Go**  
-  シンプルで効率的なバックエンド開発
+  シンプルで効率的なバックエンド開発 GinとgRPC鯖の開発してた経験があります。
 
 ---
 
@@ -33,7 +33,19 @@
 
 ### 🔥 コミット活動
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daikugimiya0715&theme=react-dark)](https://github.com/daikugimiya0715)
+![](https://activity-graph.herokuapp.com/graph?username=daikugimiya0715&theme=react-dark)](https://github.com/daikugimiya0715)
+
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daikugimiya0715&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daikugimiya0715&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daikugimiya0715&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daikugimiya0715&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daikugimiya0715&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=daikugimiya0715&theme=gruvbox)
+
 
 ---
 
