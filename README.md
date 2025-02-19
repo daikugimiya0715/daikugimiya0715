@@ -31,10 +31,6 @@
 
 ---
 
-### 🔥 コミット活動
-
-![](https://activity-graph.herokuapp.com/graph?username=daikugimiya0715&theme=react-dark)](https://github.com/daikugimiya0715)
-
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daikugimiya0715&theme=gruvbox)
