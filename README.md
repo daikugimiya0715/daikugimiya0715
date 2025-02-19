@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 つながりましょう！
+### 🌐 各種SNSよかったらフォローお願いします 🙇
 
 - **Twitter:** [@abimaruXD](https://twitter.com/abimaruXD)
 - **Zenn:** [meziron](https://zenn.dev/meziron)
