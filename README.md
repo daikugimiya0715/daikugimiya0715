@@ -3,6 +3,7 @@
 ## フルスタックエンジニア
 
 こんにちは！日々、**Vim**, **Kotlin (Android)**, **Python**, **C#**, **React/Next/Vue3 (TS)**, **Go** などの技術を使って、フルスタックな開発に取り組んでいます。  
+SNSでは、あびまるっていう名前で活動してます。
 
 ---
 
@@ -51,6 +52,3 @@
 - **Zenn:** [meziron](https://zenn.dev/meziron)
 - **Qiita:** [abimaruXD](https://qiita.com/abimaruXD)
 
----
-
-Feel free to reach out if you want to chat or collaborate on something fun!
